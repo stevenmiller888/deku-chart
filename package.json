@@ -1,0 +1,18 @@
+{
+  "name": "deku-chart",
+  "description": "A chart component built with Deku and Chart.js",
+  "author": "Steven Miller",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenmiller888/deku-chart"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "duo": "^0.15.3",
+    "duo-babel": "^6.0.0",
+    "eslint": "^0.22.1"
+  }
+}

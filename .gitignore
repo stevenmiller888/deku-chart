@@ -1,0 +1,5 @@
+example/build.js
+node_modules
+components
+*.log
+tmp
